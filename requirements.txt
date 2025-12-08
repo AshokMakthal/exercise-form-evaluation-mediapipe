@@ -3,8 +3,8 @@ opencv-python
 mediapipe
 numpy
 matplotlib
-pyttsx3
-ultralytics
+
+
 
 
 
