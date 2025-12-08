@@ -1,8 +1,10 @@
 streamlit
-opencv-python-headless
-mediapipe==0.10.14
+opencv-python
+mediapipe
 numpy
 matplotlib
+pyttsx3
+ultralytics
 
 
 
